@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Homework3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_fragment">List Fragment</string>
+    <string name="detail_fragment">Detail Fragment</string>
+    <string name="go_to_detail_fragment">Go to Detail Fragment</string>
+    <string name="go_to_list_fragment">Go to List Fragment</string>
+    <string name="action_listFragment_to_detailFragment">action_listFragment_to_detailFragment</string>
+    <string name="action_detailFragment_to_listFragment">action_detailFragment_to_listFragment</string>
+    <string name="btn_text_1">ListView - 1</string>
+    <string name="btn_text_2">ListView - 2</string>
+    <string name="btn_text_3">ListView - 3</string>
+</resources>
