@@ -6,4 +6,4 @@
  - Fragment
 
 
-![Screenshot](doa1.png)      ![Screenshot](doa2.png)
+![The List Fragment / Districts of Ankara](doa1.png)      ![The Detail Fragment / Photos of Ankara](doa2.png)
